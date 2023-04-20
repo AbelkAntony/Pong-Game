@@ -8,7 +8,7 @@ In this left side paddle for Player and the right side paddle for computer. For 
 
 
 
-#ScreenShots
+# ScreenShots
 
 ![Capture1](/ScreenShots/1.png)
 ![Capture1](/ScreenShots/2.png)
